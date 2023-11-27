@@ -45,8 +45,8 @@
     - Main memory access time 70 cycles.
 
     - Cevap:
-    - = 1 + (5 + (0.1 * 70)) : L2 YOKSA,
-    - = 1 + (5 + (0.1 * [12 + (0.05 * 70)])) : L2 VARSA
+    - = 5 + (0.1 * 70) : L2 YOKSA,
+    - = 5 + (0.1 * [12 + (0.05 * 70)]) : L2 VARSA
 
     NOT: L2 hesabı => [12 + (0.05 * 70)]
         - 12 => L2 hit_time
