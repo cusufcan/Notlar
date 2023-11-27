@@ -67,7 +67,7 @@
             - Ortalama => 4 + 4.17 = 8.17msn (ort. dönüş geck. ekle)
             - En çok => 4 + 8.33 = 12.33msn (dönüş geck. ekle)
 
-        c) 1GB bir dosyanın peş peşe sektörlerde olduğu duurmda, diskin kaç iz okunması gerekir?
+        c) 1GB bir dosyanın peş peşe sektörlerde olduğu durumda, diskin kaç iz okunması gerekir?
             - Cevap:
             - 1024 (sektör/iz) * 4 (KB/sektör) = 4 (MB/iz) var.
             - 1024MB / 4 (MB/iz) = 256 iz okuması gerekir.
